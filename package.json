@@ -1,0 +1,21 @@
+{
+  "name": "pgxpo-flood",
+  "version": "1.0.4",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmu1x/PGxPO-Flood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmu1x/PGxPO-Flood/issues"
+  },
+  "homepage": "https://github.com/itsmu1x/PGxPO-Flood#readme"
+}
